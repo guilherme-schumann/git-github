@@ -5,9 +5,9 @@
 
 <h2>Tecnologias</h2>
 <div>
-  <img src="https://img.shields.io/badge/HTML">
-  <img src="https://img.shields.io/badge/CSS">
-  <img src="https://img.shields.io/badge/JavaScript">
+  <img src="https://img.shields.io/badge/HTML-red">
+  <img src="https://img.shields.io/badge/CSS-blue">
+  <img src="https://img.shields.io/badge/JavaScript-yellow">
 </div>
 
 <h2>Time</h2>
