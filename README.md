@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>Sobre</h2>
-<p>Projeto utilizado no cruso de lógica de programação da Alura, junto com o curso de Git e Github afim de aprender lógica de programação utilizando JavaScript e comandos do Git para compartilhamento do repositório.</p>
+<p>Projeto construído no curso de lógica de programação da Alura, junto com o curso de Git e Github afim de aprender lógica de programação utilizando JavaScript e comandos do Git para compartilhamento do repositório.</p>
 
 <h2>Tecnologias</h2>
 <div>
